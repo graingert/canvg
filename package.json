@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Javascript SVG parser and renderer on Canvas, adapted for CommonJS",
   "main": "index.js",
-  "homepage": "https://github.com/bpmn-io/canvg-browser",
+  "homepage": "https://github.com/gabelerner/canvg",
   "keywords": [
     "javascript",
     "client",
@@ -20,7 +20,7 @@
   "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bpmn-io/canvg-browser.git"
+    "url": "git://github.com/bgabelerner/canvg.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -43,6 +43,6 @@
     "xmldom": "^0.1.22"
   },
   "bugs": {
-    "url": "https://github.com/bpmn-io/canvg-browser/issues"
+    "url": "https://github.com/gabelerner/canvg/issues"
   }
 }
